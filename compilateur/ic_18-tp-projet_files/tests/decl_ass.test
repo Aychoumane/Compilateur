@@ -1,0 +1,2 @@
+#Test de déclaration et assignation de variable, ainsi que les parenthèses 
+var zoo = (2) ; 
