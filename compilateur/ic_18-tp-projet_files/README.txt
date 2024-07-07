@@ -21,6 +21,5 @@ Exception 12  [Arithmetic overflow]  occurred and ignored
 1Exception occurred at PC=0x00400094
 Arithmetic overflow
 
-Je pense que c'est une erreur de gestion de la pile, mais je n'en suis pas sur. Malheureusement, je m'en suis aperçu que trop tard. 
-
+Je pense que c'est une erreur de gestion de la pile, mais je n'en suis pas sur.
 
